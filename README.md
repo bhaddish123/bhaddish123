@@ -1,6 +1,6 @@
 ### Hi 👋, thanks for visiting my GitHub profile!
 
-I'm Bereket, a Computer Science student at West Chester University (Certificate in Computer Security, graduating December 2026). I build full-stack apps that real people use, and I care most about the parts that break after launch: payments, auth, scheduling, and data you can trust.
+I'm Bereket, a Computer Science student at West Chester University (Certificate in Computer Security, graduating December 2026). I build full-stack apps, and I care most about the parts that break after launch: payments, auth, scheduling, and data you can trust.
 
 ---
 
