@@ -2,7 +2,7 @@ I'm Bereket, a CS senior at West Chester University (B.S. Computer Science and C
 
 ## Current role
 
-- Incoming IT Intern at TechBldrs, Inc. (Exton, PA) — starting November 2026
+- IT Intern at TechBldrs, Inc. (Exton, PA) — (December 2026 - Present)
 - Freelance Software Engineer at AIO Fitness (June 2026 – Present), building and operating a production booking and payments platform
 
 ## Just shipped
