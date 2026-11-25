@@ -1,17 +1,25 @@
-### Hi 👋, thanks for visiting my GitHub profile!
+I'm Bereket, a CS senior at West Chester University (B.S. Computer Science and Certificate in Computer Security, December 2026), interested in software engineering and application security.
 
-I'm Bereket, a Computer Science student at West Chester University (Certificate in Computer Security, graduating December 2026). I build full-stack apps, and I care most about the parts that break after launch: payments, auth, scheduling, and data you can trust.
+## Current role
 
----
+- Incoming IT Intern at TechBldrs, Inc. (Exton, PA) — starting November 2026
+- Freelance Software Engineer at AIO Fitness (June 2026 – Present), building and operating a production booking and payments platform
 
-**What I'm working on right now**
+## Just shipped
 
-- **[AIO Fitness](https://github.com/bhaddish123/aio-fitness)**: the booking and payments platform I built and run in production for a coaching business, live at [everettleecoaching.com](https://everettleecoaching.com).
-- **[Murmur](https://github.com/bhaddish123/murmur)**: push-to-talk dictation that runs fully on-device on macOS, with an iPhone keyboard in progress.
-- **[Ask Rammy](https://github.com/bhaddish123/ask-rammy-eval-harness)**: testing and data lead on my capstone team rebuilding West Chester's HR chatbot.
+**[Crate-Grab Race](https://bhaddish123.github.io/crate-grab-race/)** ([repo](https://github.com/bhaddish123/crate-grab-race)) — a 2–8 player networked platformer in Godot 4, designed and playtested for CSC 476 Game Development, with a lobby, player-status HUD, and LAN plus Tailscale play.
 
-**Tools I use:** Java, Spring Boot, React, Python, Swift, PostgreSQL, AWS, Stripe, Docker, GitHub Actions
+## Currently working on
 
----
+- **Ask Rammy v2** — Testing & Data Lead on this HR chatbot capstone through December 2026
+- **Murmur** — a fully local push-to-talk dictation app for macOS
 
-For my full experience, visit my [LinkedIn](https://www.linkedin.com/in/bereket-haddish-1225132b5). I'm open to software engineering roles starting after December 2026.
+## Tools & technologies
+
+- **Languages:** Java, Python, JavaScript, SQL, Swift
+- **Frameworks:** Spring Boot, React, Flask, PostgreSQL
+- **Cloud / DevOps:** Docker, AWS (EC2/RDS), GitHub Actions
+- **Security / AI:** RAG, OWASP Top 10
+- **Game:** Godot, GDScript
+
+[LinkedIn](https://www.linkedin.com/in/bereket-haddish-1225132b5)
